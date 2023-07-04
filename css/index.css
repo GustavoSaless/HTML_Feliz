@@ -54,3 +54,12 @@ a::before {
     height: 10px;
     margin-right: 10px;
 }
+
+div {
+    background-image: url(../Assets/559128.jpg);
+    width: 100vw;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
