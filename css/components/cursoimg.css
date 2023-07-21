@@ -1,0 +1,22 @@
+.cursoimg {
+    background-color: #7C5E99;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    box-shadow: 10px 15px #FFF;
+
+}
+
+.cursoimg:hover {
+    transform: scale(1.1);
+
+}
+
+.cursoimg.-azul {
+    background-color: #4C5B84;
+}
+
+.cursoimg.-rosa {
+    box-shadow: 10px 15px #FFF;
+    background-color: #F25A70;
+}
