@@ -9,7 +9,7 @@ nav {
     text-align: right;
 }
 
-a {
+.quadrado {
     display: inline-flex;
     align-items: center;
     color: #FFF;
@@ -19,13 +19,14 @@ a {
     text-decoration: none;
     margin-right: 30px;
 
+
 }
 
 
 
 
 
-a::before {
+.quadrado::before {
     content: "";
     background-color: rgb(5 13 43);
     width: 10px;
