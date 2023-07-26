@@ -27,7 +27,7 @@ a {
 
 a::before {
     content: "";
-    background-color: rgb(130, 5, 255);
+    background-color: rgb(5 13 43);
     width: 10px;
     height: 10px;
     margin-right: 10px;
