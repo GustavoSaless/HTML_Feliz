@@ -1,0 +1,24 @@
+.quadrado {
+    display: inline-flex;
+    align-items: center;
+    color: #FFF;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+
+
+}
+
+
+
+
+
+.quadrado::before {
+    content: "";
+    background-color: rgb(5 13 43);
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}

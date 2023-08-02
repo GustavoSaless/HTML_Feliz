@@ -1,0 +1,19 @@
+.parte3 {
+    background-color: #000c14;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #FFF;
+}
+
+
+.parte3 .main-title {
+    margin-bottom: 60px;
+}
+
+.parte2.-bgsecond {
+    background-color: #7c5e99;
+}
+
+.parte3.-bdblack {
+    border-color: #fff;
+}
